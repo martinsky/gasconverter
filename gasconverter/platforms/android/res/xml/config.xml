@@ -5,12 +5,12 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
-    <name>GasConverter</name>
+    <name>Gas Price Converter</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A simple application to convert the price of gas between liter and gallon.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="info@compica.com" href="http://compica.com">
+        Martin Fournier
     </author>
     <content src="index.html" />
     <access origin="*" />
